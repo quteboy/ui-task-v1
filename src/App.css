@@ -2,3 +2,8 @@
   width: 250px;
     height: 250px;
 }
+
+.bg-select-item{
+  background-color: #e9ecef;
+  border-left: 1.5px solid blue;
+}

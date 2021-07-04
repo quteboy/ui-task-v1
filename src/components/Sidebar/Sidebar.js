@@ -131,7 +131,7 @@ const Sidebar = () => {
             <AccountCircleIcon style={{color:'grey',fontSize: "32px",marginBottom:'7px'}} />
             <Typography style={{color:'grey', fontWeight:'bold',marginLeft:'3px'}}>Students</Typography>
           </div>
-          <div className="border text-center p-2" style={{ marginBottom:'30px'}}>
+          <div className="border bg-select-item text-center p-2" style={{ marginBottom:'30px'}}>
             <LibraryBooksIcon style={{color:'grey',fontSize: "32px",marginBottom:'7px'}} />
             <Typography style={{color:'grey', fontWeight:'bold',}}>Leson Plans</Typography>
           </div>
